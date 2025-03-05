@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+}
+
+.navbar{
+
+    height: 71px;
+    width: 1590px;
+    display: flex;
+    position: fixed;
+    flex-direction: row;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #007bff;
+}
+
+.logo{
+     
+    background-image: url("Screenshot_2024-12-11_151103-removebg-preview.png");
+    height: 45.4px;
+    width: 65.80px;
+    background-size: cover;
+    background-color: #007bff;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.top{
+    
+    margin-top: 10px;
+    margin-left: 1200px;
+}
+
+a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+
+}
+
+.navbar a:hover {
+    background-color: #0056b3;
+    border-radius: 10%;
+}
+
+
+
+
+.midimage{
+    
+    margin-top: 50px;
+    height: 800px;
+  
+   
+    background-image: url("Grocery\ Delivery\ Facebook\ Ad2.gif");
+    background-size: cover;
+   
+
+}
+
+h1{
+
+    margin-top: 50px;
+}
+
+
+
+
+.content{
+
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#contentheading{
+
+    margin-bottom: 40px;
+    font-family: "Gill Sans", sans-serif;
+}
+
+p{
+    font-size: 20px;
+    font-family: "Gill Sans", sans-serif;
+}
+
+#line{
+
+    color: green;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 22px;
+    
+}
